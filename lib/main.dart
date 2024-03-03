@@ -33,7 +33,7 @@ class TaskManagerHomePage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                'Welcome to Plan IT',
+                'Welcome to Plan IT Ltd.',
                 style: TextStyle(
                   fontSize: 24.0,
                   fontWeight: FontWeight.bold,
